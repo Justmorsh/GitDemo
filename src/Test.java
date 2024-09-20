@@ -1,9 +1,3 @@
 
 public class Test {
-	// feature 1 added
-	// feature 2 added
-	
-	
-	
-	//
 }
